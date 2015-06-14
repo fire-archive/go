@@ -1,0 +1,19 @@
+Copyright 2015 Joseph Spurrier
+
+This product includes software developed by
+the Joseph Spurrier (http://www.josephspurrier.com).
+
+This product includes software developed by
+The Go Authors (https://golang.org).
+
+This product includes software developed by
+Git for Windows (http://msysgit.github.io).
+
+This product includes software developed by
+EasyMercurial (http://easyhg.org/).
+
+This product includes software developed by
+DiffUtils for Windows (http://gnuwin32.sourceforge.net/packages/diffutils.htm).
+
+This product includes software developed by
+visualfc (https://github.com/visualfc/liteide).
